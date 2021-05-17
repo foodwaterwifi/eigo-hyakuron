@@ -1,5 +1,5 @@
 # Eigo Hyakuron
-Amerikajin no neitibu ni yoru, eigo no chishiki wo shirushita de-tabe-su desu. "*Obsidian*" to iu apuri wo tsukatte, seiri shita joutai de yomu koto ga dekiru you ni natte imasu.
+Amerikajin no neitibu ni yoru, eigo no chishiki wo shirushita de-tabe-su desu. "*Obsidian*" to iu apuri wo tsukatte, seiri shita joutai de yomeru you ni natte imasu.
 
 # Dare no tame no sankou na no ka
 Eigo wo masuta- shitai minna no tame desu. Mikansei.
